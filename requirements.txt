@@ -2,3 +2,4 @@ numpy
 matplotlib
 ortools
 pandas
+xlrd
